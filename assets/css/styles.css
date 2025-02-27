@@ -1108,12 +1108,11 @@ section.section.virtual_herald {
 
 /*==================== FOOTER ====================*/
 .footer {
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 .footer_half {
   display: flex;
   justify-content: space-evenly;
-  margin-top: 60px;
   flex-wrap: wrap;
 }
 .footer__container {
@@ -1181,7 +1180,7 @@ i.uil-youtube:hover {
   font-size: var(--small-font-size);
   text-align: center;
   color: #ffffff;
-  margin-top: var(--mb-3);
+  margin-top: 1rem;
 }
 
 .footer__title,
@@ -1250,7 +1249,7 @@ i.uil-youtube:hover {
 
 .footer__socials {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 /*========== SCROLL UP ==========*/
