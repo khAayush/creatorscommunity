@@ -1,4 +1,4 @@
-/* Copyright Rajat Sapkota */
+/* Copyright Rajat Sapkota and Aayush Khatiwada*/
 class Footer extends HTMLElement {
     constructor() {
         super();

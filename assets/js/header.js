@@ -1,4 +1,4 @@
-/* Copyright Rajat Sapkota */
+/* Copyright Rajat Sapkota and Aayush Khatiwada*/
 class Header extends HTMLElement {
     constructor() {
       super();
@@ -14,7 +14,7 @@ class Header extends HTMLElement {
               <ul class="nav__list grid">
                 <li class="nav__item">
                   <a href="./about.html" class="nav__link">
-                    <i class="uil uil-user nav__icon"></i> About
+                    <i class="uil uil-user nav__icon"></i> About Us
                   </a>
                 </li>
   
