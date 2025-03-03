@@ -1120,13 +1120,22 @@ section.section.virtual_herald {
   flex-direction: column;
   row-gap: 2rem;
 }
-.footer_left,
+.footer_left{
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .footer_middle {
   width: 350px;
 }
 .footer_right {
   width: 350px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .footer__bg {
   background-color: rgba(0, 0, 0, 0.712);
@@ -1210,6 +1219,8 @@ i.uil-youtube:hover {
   height: 40px;
   border-radius: 50%;
   background-color: #f1f1f1;
+  font-size: 2rem;
+  color: #79d348;
 }
 
 .name {
